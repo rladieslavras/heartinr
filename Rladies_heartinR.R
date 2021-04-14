@@ -2,7 +2,7 @@
 # Que tal declarar para o seu amor utilização programação?
 # Nós do R-Ladies Lavras organizamos esse script com varias formas de declarar
 # para o seu amor nesse dia 12/06. 
-# Use sua criatividade e feliz dia dos namorados
+# Use sua criatividade e feliz dia dos namorados.
 #-------------------------------------------------------------------------
 
 # CORAÇÃO 1 - FORMULA DO AMOR ---------------------------------------------
